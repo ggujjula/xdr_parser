@@ -1,0 +1,15 @@
+*.o
+*.a
+*.so
+lexer.c
+lexer.h
+parser.c
+parser.h
+lexer
+parser
+parser.report.txt
+*.x
+*.dot
+*.svg
+external
+*.rs
